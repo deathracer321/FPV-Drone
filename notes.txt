@@ -1,0 +1,173 @@
+Drone name : deathracer_3inch_analogBuild
+
+
+Radio master pocket
+
+https://www.drkstore.in/radiomaster-pocket-radio-cc2500-elrs/?attribute_pa_model=elrs&attribute_pa_color=charcoal
+
+6200
+
+
+
+
+
+Cloud 149 3inch frame kit HD/SD
+
+not found
+
+
+
+
+
+
+
+gepprc speedx2 1804-3450kv
+https://www.drkstore.in/geprc-speedx2-1804-2450kv-3450kv-motor/?gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVycz4n5tiz0m-YbDhO9c66k6WbxrE2V0hwX5xIfQOCC_4LFNJ9wGYaAtsSEALw_wcB
+
+1700 each
+
+
+
+
+
+F405 mini fc 2-6s battery power neutron
+neutroon rc au32 4 in 1 lipo 3-6s esc
+SB f4 ve stack
+
+https://thefpvproject.com/product/speedybee-f4-f405-v3-bls-50a-30x30-fcesc-stack/
+
+6000
+
+
+
+Goku gm 10 nano gps receiver
+https://anubisrc.com/product/goku-gm10-nano-v3-gps/
+
+2000
+
+
+
+
+
+70mm propeller 3 blade 1.5 mm Tmount
+ducted 75mm 3 blade 
+
+https://robu.in/product/hqprop-d76mmx3-for-cinewhoop-grey-2cw2ccw-poly-carbonate/?gad_source=1&gclid=CjwKCAiArLyuBhA7EiwA-qo80MSNxPyTi3BG6tl43yqdMdQm8g7VSlFufxQxqMh1hvrR1m9u7efa2hoCMHkQAvD_BwE
+
+300
+
+
+
+
+Gepprc ELRS 2 diversity receiver
+For drone to receive signal from radio
+
+https://www.drkstore.in/geprc-elrs-dual-2-4g-diversity-receiver/
+
+1900
+
+
+
+
+BATTERIES:--_---------------------------
+
+
+Tattu 1550 mah 120c
+Or CNHL for cost
+tattu 1330 mah 1200
+850mah 75c
+
+
+https://www.drkstore.in/cnhl-ministar-1300mah-14-8v-4s-120c-lipo-battery-with-xt60-plug/
+
+1 * 1900 each
+
+
+Sky rc b6 neo charger
+https://www.drkstore.in/skyrc-b6-neo-200w-dc-smart-charger-with-dc-pd-dual-input/
+
+3000
+
+
+
+
+
+total till this: 33000~ 
+having only one battery*
+assuming frame is 4000 rs
+
+
+
+FPV set:-------------------------
+
+
+Omni directional antenna 
+For goggles (1/2)
+
+https://www.drkstore.in/foxeer-micro-lollipop-antenna-5-8g-2-5dbi-high-gain-rhcp-ufl/
+
+2 * 2000
+doubt----------------------------------------------------------------------------------------
+can i use the same above lolipop antenna for both sending and receiving signal in drone and goggles?
+
+
+
+patch antenna
+For goggles (2/2)
+
+https://robu.in/product/triple-feed-patch-5-8ghz-antenna-rp-sma/?gad_source=1&gclid=Cj0KCQiAz8GuBhCxARIsAOpzk8zScxlYypdYdJtm2gd97E6doqbXtr3AYUe-f32pLQd2MUtfy3x_Q3gaAtuoEALw_wcB
+
+600
+
+
+
+
+Skyzone cobra sd
+https://www.quadkart.in/skyzone-cobra-sd-5-8ghz-fpv-goggles-w-diversity-receiver/
+
+13500
+
+
+
+
+AKK vtx racer ranger 1.6 watt - not found so going for below option
+vtx transmitter
+
+4000
+Doubt----------------------------------------------------------------------------------------------------
+Akk race ranger link please...need 5.8ghz 1.6watts
+
+
+
+
+
+lolipop antenna rxtc
+antenna for vtx transmitter
+
+https://www.drkstore.in/foxeer-micro-lollipop-antenna-5-8g-2-5dbi-high-gain-rhcp-ufl/
+
+2 *  = 2000
+
+
+
+
+Caddex baby ratel 2 camera
+
+https://robu.in/product/caddx-baby-ratel-2-1-1-8-1200tvl-camera/
+
+3400
+
+
+Non-FPV - 33000
+FPV alone 23500
+
+Total minimum 56500
+
+
+
+
+
+
+
+
+
